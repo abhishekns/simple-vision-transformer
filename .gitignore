@@ -1,0 +1,10 @@
+.venv
+data/
+*.pth
+runs/
+__pycache__/
+.mypy_cache/
+*.pyc
+*.pyo
+*.pyd
+checkpoints/
